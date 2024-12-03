@@ -5,7 +5,7 @@ package chapter1;
  * simply prints "Kamusta Mundo!" to standard output.
  */
 
-class Tasksheet111 {
+public class Tasksheet111 {
     public static void main(String[] args) {
         System.out.println("Kamusta Mundo!"); // Display the string.
     }
