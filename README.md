@@ -1,2 +1,12 @@
-# java-activities
-This repository contains classwork for ESIST Java Programming NC III, including exercises, projects, and assignments on topics like Java basics, OOP, and more.
+# Java Learning Portfolio
+
+Welcome to my Java Activities Repository! This repository is a structured specifically tailored for the **Java SE 8 Programmer I certification (1Z0-808)** based on ** ESIST Java Programming NC III Training **. Alongside preparing for the exam, I aim to build real-world projects and showcase my progress.
+
+## Repository Structure
+- **Task Sheet 1-1-1**: [Scope of variables, class structure, creating executable applications, etc.](src/java_basics/)
+
+## Goals
+- Earn the Training Certificate from ** ESIST Java Programming NC III **
+- Prepare for the **Java SE 8 Programmer I certification**.
+- Build a strong understanding of Java fundamentals.
+- Create real-world projects to demonstrate practical applications.
