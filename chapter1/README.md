@@ -8,3 +8,12 @@ This task focuses on debugging, editing, and compiling a simple Java program to 
 - Editing source code to meet specific requirements.
 - Compiling and running Java programs in an IDE or online environment.
 - Adhering to Java Standard Edition specifications for application development.
+
+# Task Sheet 1-1-2  
+**Create and concatenate primitive data types in Java**
+
+This task involves creating a Java program that declares various primitive data types (except `long` and `double`), assigns them values, and concatenates them into a formatted string for output. By completing this task, you will practice working with Java's primitive types, string manipulation, and the fundamentals of compiling and running Java applications.
+
+### Key Skills Covered:
+- Working with Java primitive data types.
+- Concatenating values into a string.
