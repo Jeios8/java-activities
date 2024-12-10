@@ -1,5 +1,10 @@
 package chapter1;
 
+/** 
+ * The Tasksheet113 class implements an application that
+ * simply prints the result of compound arithmetic computation to standard output.
+ */
+
 class Tasksheet113 {
     public static void main (String[] args){
         int result = 1 + 2; // result is now 3
