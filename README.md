@@ -9,7 +9,7 @@ Welcome to my Java Activities Repository! This repository is a structured specif
 - **Task Sheet 1-1-4**: [Scope: Writing Control flow statements using Loops](chapter2/Tasksheet114.java)
 - **Task Sheet 1-1-5**: [Scope: Modify Variables to Resolve Conditional Statements](chapter3/Tasksheet115.java)
 - **Task Sheet 1-1-6**: [Scope: Check if a string is a palindrome using Java.](chapter3/Tasksheet116.java)
-- **Task Sheet 1-1-6**: [Scope: Check the Largest Number Among Three Inputs in Java.](chapter4/Tasksheet117.java)
+- **Task Sheet 1-1-7**: [Scope: Check the Largest Number Among Three Inputs in Java.](chapter4/Tasksheet117.java)
 
 ## Goals
 - Earn the Training Certificate from ** ESIST Java Programming NC III **
