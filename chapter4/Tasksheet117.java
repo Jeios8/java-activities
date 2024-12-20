@@ -26,7 +26,7 @@ public class Tasksheet117 {
             System.out.println("As checked, all numbers are equal");
         } else {
             // Find the largest number
-            int largest = largestNum(a, b, c);
+            int largest = getLargestNum(a, b, c);
             System.out.println("As checked, " + largest + " is the largest.");
         }
         
@@ -48,7 +48,13 @@ public class Tasksheet117 {
     }
 
     // compares numbers and returns the largest
-    public static int largestNum(int a, int b, int c) {
-        return ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
+    public static int getLargestNum(int a, int b, int c) {
+        if (a > b && a > c) {
+            return a;
+        } else if (b > a && b > c) {
+            return b;
+        } else {
+            return c;
+        }
     }
 }
