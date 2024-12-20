@@ -1,12 +1,15 @@
 package chapter3;
 
+import java.util.Scanner;
+
 /**
  * This Tasksheet116 class implements a program that checks 
  * if a given input string is a palindrome. A palindrome is a sequence 
  * of characters that reads the same forward and backward.
+ * 
+ * Reference for reading String input using Scanner:
+ * https://www.w3schools.com/java/java_user_input.asp
  */
-
-import java.util.Scanner;
 
 public class Tasksheet116 {
     public static void main(String[] args) {
