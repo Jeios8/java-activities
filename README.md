@@ -12,6 +12,8 @@ Welcome to my Java Activities Repository! This repository is a structured specif
 - **Task Sheet 1-1-7**: [Scope: Check the Largest Number Among Three Inputs in Java.](chapter4/Tasksheet117.java)
 - **Task Sheet 1-1-8**: [Scope: Loop Through and Print Even Numbers Until 237.](chapter4/Tasksheet118.java)
 - **Task Sheet 1-1-9**: [Scope: Perform Basic Arithmetic Operations with Methods in Java.](chapter4/Tasksheet119.java)
+- **Task Sheet 1-2-0**: [Scope: Compute Cumulative Sums of Given Numbers Using Java.](chapter4/Tasksheet120.java)
+- **Task Sheet 1-2-1**: [Scope: Perform Basic Math Operations with Static Imports.](chapter4/Tasksheet121.java)
 
 ## Goals
 - Earn the Training Certificate from ** ESIST Java Programming NC III **

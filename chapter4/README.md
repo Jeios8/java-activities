@@ -31,3 +31,25 @@ This program allows the user to input two numbers and perform the four basic ari
 - Handling user input using the `Scanner` class.
 - Performing basic arithmetic operations.
 - Implementing and handling edge cases, such as division by zero.
+
+## Task Sheet 1-2-0  
+**Compute Cumulative Sums of Given Numbers Using Java**
+
+This program allows the user to input a series of numbers and calculates the cumulative sum for each number as well as the total sum of all cumulative sums. The cumulative sum for each number is computed using the formula: `n * (n + 1) / 2`. The program demonstrates the use of methods with variable arguments and handles user input either via command-line arguments or through the `Scanner` class.
+
+### Key Skills Covered:
+- Utilizing variable argument methods (`varargs`) in Java.
+- Calculating cumulative sums using mathematical formulas.
+- Handling user input via both command-line arguments and the `Scanner` class.
+- Performing calculations efficiently using arithmetic operations.
+
+## Task Sheet 1-2-1
+**Perform Basic Math Operations with Static Imports**
+
+This program demonstrates the use of static imports from the Java `Math` class to perform basic math operations such as addition, subtraction, multiplication, and division. The program defines static methods for each operation, taking advantage of the Math class methods like `addExact`, `subtractExact`, `multiplyExact`, and `floorDiv`.
+
+### Key Skills Covered:
+- Using static imports in Java.
+- Utilizing methods from the `Math` class.
+- Writing and calling static methods.
+- Handling exceptions in mathematical operations.
