@@ -63,3 +63,13 @@ This program demonstrates how to create a simple Java class, `Student`, which re
 - **Object-Oriented Design:** Demonstrates encapsulation using private fields and public methods.
 - **Constructor:** Initializes a `Student` object with a first and last name.
 - **Method Definition:** Includes a method to print the full name in a formatted manner.
+
+## Task Sheet 1-2-3
+**Book Class Program**
+
+This program demonstrates the creation and use of a `Book` class in Java. It defines the `Book` class with attributes such as title, author, year of publication, and price. The program then creates three instances of `Book` with different values and prints the details of each book.
+
+### Key Features:
+- **Object-Oriented Programming (OOP)**: The `Book` class is a simple representation of a book object with encapsulated attributes.
+- **Constructor**: The constructor initializes the attributes of each book object with provided values.
+- **toString() Method**: The `toString()` method provides a formatted string representation of the book details for easy printing.

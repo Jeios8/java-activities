@@ -22,6 +22,7 @@ Welcome to my Java Activities Repository! This repository is a structured specif
 - **Task Sheet 1-2-0**: [Scope: Compute Cumulative Sums of Given Numbers Using Java.](chapter4/Tasksheet120.java)
 - **Task Sheet 1-2-1**: [Scope: Perform Basic Math Operations with Static Imports.](chapter4/Tasksheet121.java)
 - **Task Sheet 1-2-2**: [Scope: Student Full Name Printer.](chapter4/Tasksheet122.java)
+- **Task Sheet 1-2-3**: [Scope: Book Class Program.](chapter4/Tasksheet123)
 
 ## Goals
 - Earn the Training Certificate from ** ESIST Java Programming NC III **
