@@ -27,6 +27,7 @@ Welcome to my Java Activities Repository! This repository is a structured specif
 ### Chapter 5
 - **Task Sheet 1-2-4**: [Scope: Point Scaling Program.](chapter5/Tasksheet124.java)
 - **Task Sheet 1-2-5**: [Scope: Vehicle and Car Class Program.](chapter5/Tasksheet125)
+- **Task Sheet 1-2-6**: [Scope: Abstract Class and Subclass Implementation.](chapter5/Tasksheet126.java)
 
 ## Goals
 - Earn the Training Certificate from ** ESIST Java Programming NC III **
