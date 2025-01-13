@@ -35,3 +35,24 @@ This program demonstrates how to define and use abstract classes in Java by crea
    
 3. **Main Class**:
    - Creates instances of `B` and `C` and calls both abstract and concrete methods.
+
+## Task Sheet 1-2-8  
+**Shape Interface and Abstract Implementation**
+
+This program demonstrates the implementation of a `Shape` interface and its concrete classes to calculate the area and perimeter of geometric shapes. It includes a base `AbstractShape` class for shared attributes and specific implementations for `Circle` and `Rectangle` classes.
+
+### Key Features:
+- **Shape Interface**: Defines methods for `calculateArea` and `calculatePerimeter`.
+- **AbstractShape Class**:
+  - Includes common attributes such as `color`, `length`, and `width`.
+  - Provides default implementations for area and perimeter calculations of rectangular shapes.
+- **Circle Class**:
+  - Extends `AbstractShape`.
+  - Adds a `radius` attribute.
+  - Overrides methods to calculate area and perimeter specific to circles.
+- **Rectangle Class**:
+  - Extends `AbstractShape`.
+  - Inherits default implementations of area and perimeter calculations.
+- **Main Class**:
+  - Demonstrates the creation of `Circle` and `Rectangle` objects.
+  - Displays the color, area, and perimeter of each shape.
