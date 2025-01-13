@@ -30,6 +30,9 @@ Welcome to my Java Activities Repository! This repository is a structured specif
 - **Task Sheet 1-2-6**: [Scope: Abstract Class and Subclass Implementation.](chapter5/Tasksheet126.java)
 - **Task Sheet 1-2-8**: [Scope: Shape Interface and Abstract Implementation.](chapter5/Tasksheet128.java)
 
+### Chapter 6
+- **Task Sheet 1-2-9**: [Scope: Animal Interface and Gorilla Class.](chapter6/Tasksheet129.java)
+
 ## Goals
 - Earn the Training Certificate from ** ESIST Java Programming NC III **
 - Prepare for the **Java SE 8 Programmer I certification**.
