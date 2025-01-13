@@ -24,6 +24,9 @@ Welcome to my Java Activities Repository! This repository is a structured specif
 - **Task Sheet 1-2-2**: [Scope: Student Full Name Printer.](chapter4/Tasksheet122.java)
 - **Task Sheet 1-2-3**: [Scope: Book Class Program.](chapter4/Tasksheet123)
 
+### Chapter 5
+- **Task Sheet 1-2-4**: [Scope: Point Scaling Program.](chapter5/Tasksheet124)
+
 ## Goals
 - Earn the Training Certificate from ** ESIST Java Programming NC III **
 - Prepare for the **Java SE 8 Programmer I certification**.
