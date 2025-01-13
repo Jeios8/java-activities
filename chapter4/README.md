@@ -53,3 +53,13 @@ This program demonstrates the use of static imports from the Java `Math` class t
 - Utilizing methods from the `Math` class.
 - Writing and calling static methods.
 - Handling exceptions in mathematical operations.
+
+## Task Sheet 1-2-2  
+**Student Full Name Printer**
+
+This program demonstrates how to create a simple Java class, `Student`, which represents a student with a first and last name. The program includes methods for initializing a student and printing their full name.
+
+### Key Features:
+- **Object-Oriented Design:** Demonstrates encapsulation using private fields and public methods.
+- **Constructor:** Initializes a `Student` object with a first and last name.
+- **Method Definition:** Includes a method to print the full name in a formatted manner.
